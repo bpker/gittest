@@ -20,3 +20,5 @@ thishithi
 
 
 git add 2
+
+git add 6
