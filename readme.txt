@@ -28,3 +28,5 @@ git add 7
 =======
 thishithi
 >>>>>>> parent of 38e2b9a (git add test 2)
+
+git add test 7
