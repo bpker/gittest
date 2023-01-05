@@ -31,9 +31,13 @@ thishithi
 
 git add test 7
 
+<<<<<<< HEAD
 git add test 8
 
 
 git add a
 
 git add b
+=======
+git add test 8
+>>>>>>> parent of 7d49bff (git add a)
